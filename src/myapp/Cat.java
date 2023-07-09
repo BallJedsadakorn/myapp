@@ -1,6 +1,6 @@
 package myapp;
 
 public class Cat {
-    private int age;
+    private int age1;
 
 }
